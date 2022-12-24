@@ -2,11 +2,24 @@
 
 ## Why APPXodus?
 
-* [x] BACILUS !
-* [x] AMOGUSS !
-* [x] PRINGUS !
-* [x] CIRCUS !
-* [ ] VIRUS ?
+* [x] BUS
+* [x] SUS
+* [x] PLUS
+* [x] BONUS
+* [x] ABACUS
+* [x] ALABUS
+* [x] CIRCUS
+* [x] TEDIUS
+* [x] GENIUS
+* [x] HAIKUS
+* [x] CACTUS
+* [x] CHUNGUS
+* [x] LUMINUS
+* [x] NERVOUS
+* [x] BACILUS
+* [x] DELICIUS
+* [x] PHOSPORUS
+* [ ] VIRUS
 
 **I think you need to do next stages:**
 
