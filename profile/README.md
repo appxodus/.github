@@ -1,12 +1,17 @@
-## Hi there 👋
+# 💾 APPXodus README.md
 
-<!--
+## Why APPXodus?
 
-**Here are some ideas to get you started:**
+* [x] BACILUS !
+* [x] AMOGUSS !
+* [x] PRINGUS !
+* [x] CIRCUS !
+* [ ] VIRUS ?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**I think you need to do next stages:**
+
+🙋‍♀️ Hello - Just say "hi shit" to control panel! 
+🌈 Don't be a dick! Here only top ten genders in binary! Male and Female! Alart! Halp! COK! 
+👩‍💻 WTF IS THIS SHIT??? 
+🍿 Some fun shit, yeah? 
+🧙 And just go to [APPXodus](https://appxodus.github.io) 
